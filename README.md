@@ -23,7 +23,7 @@ The visualizations below depict several results of this analysis.
 
 4. **Trips by Gender** - The image below reflects the same conclusions as point 3. While there are more customers between both genders during these time frames, there are noticebly more male than female customers. This mirrors the conclusion in point 1 where there are about 2.5 more male than female customers.
 
-<img src="Resources/trips_gender.png" width="7005%" height="7005%">
+<img src="Resources/trips_gender.png" width="75%" height="75%">
 
 5. **Trips by Gender by Weekday** - For the most part, regular customers have a fairly equal trip distribution between genders. Subscribing customers, on the other hand, are primarily male with the most trips occuring on Thursdays and Fridays.
 
