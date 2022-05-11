@@ -6,14 +6,11 @@
 
 The purpose of this project was to analyze NYC Citibike data from August 2019 to gain more insight into how a bike-sharing program works.
 
-## Results
+## Tableau Dashboard
 
-<hr>
-
-### Tableau Dashboard
 Link to dashboard: <a href="https://public.tableau.com/app/profile/janice4876/viz/bikesharing_challenge_16522520715130/Bikesharing?publish=yes">https://public.tableau.com/app/profile/janice4876/viz/bikesharing_challenge_16522520715130/Bikesharing?publish=yes</a>
 
-<hr>
+## Results
 
 The visualizations below depict several results of this analysis.
 
