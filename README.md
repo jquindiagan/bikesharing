@@ -7,6 +7,14 @@
 The purpose of this project was to analyze NYC Citibike data from August 2019 to gain more insight into how a bike-sharing program works.
 
 ## Results
+
+<hr>
+
+### Tableau Dashboard
+Link to dashboard: <a href="https://public.tableau.com/app/profile/janice4876/viz/bikesharing_challenge_16522520715130/Bikesharing?publish=yes">https://public.tableau.com/app/profile/janice4876/viz/bikesharing_challenge_16522520715130/Bikesharing?publish=yes</a>
+
+<hr>
+
 The visualizations below depict several results of this analysis.
 
 1.  **Gender Breakdown** - NYC Citibike users are mostly male, with about 65% being male and about 25% being female.
